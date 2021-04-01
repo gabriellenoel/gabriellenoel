@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabriellenoel
 - 🏡 28 • NYC • She/Her
 - 🌱 I’m currently learning Java and Spring Boot. Previously: MySQL, PostgreSQL, Ruby, Ruby on Rails, JavaScript, React.
-- 📖 I wrote a book! "[How To Live With The Internet And Not Let It Run Your Life](https://www.barnesandnoble.com/w/how-to-live-with-the-internet-and-not-let-it-run-your-life-gabrielle-alexa-noel/1137428227)" by Gabrielle Alexa Noel (Smith Street Books) is available wherever books are sold.
+- 📖 I wrote a book! "[How To Live With The Internet And Not Let It Run Your Life](https://www.barnesandnoble.com/w/how-to-live-with-the-internet-and-not-let-it-run-your-life-gabrielle-alexa-noel/1137428227)" by Gabrielle Alexa Noel is available wherever books are sold.
 - 💌 gabby@gabriellealexa.com
 
 <!---
